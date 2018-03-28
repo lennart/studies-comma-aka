@@ -61,9 +61,32 @@ removing loop marks
 > discovering loop  
 in a stream  
 
+the second study ended with a loop which could not distinguish anymore (not part of the above video). I did not know whether I was listening to the unedited recording, or a sampled loop I programmed. I lost control and could not get it back.
+
+while it was interesting to observe the result of the program, not getting lost within coding felt like something was missing. I wanted to play with the elements of the music, not _just_ with my perception.
+
+I chose to create a dub version of the aka pygmy dance.
+
+
 ### study three
 [![study three](https://img.youtube.com/vi/ba2pHWpXeXg/0.jpg)](https://www.youtube.com/watch?v=ba2pHWpXeXg "study three")
- 
+
+> there may be a _to_  
+in _through_.
+>
+> lead
+>
+> a keyboard to unlock
+>
+> oh how we bounce
+
+After this one. i had to take a break of a least two weeks before being able to do another study. it felt like I exhausted the material, only to realize I was the one being exhausted.
+
+one day I dtopped looking for a new idea to make another study,and instead used an old one. I algorithmically cut the field recording into onset detected samples and organized them by length into groups. each sample group was sorted by pitch, ascending.
+
+the study was to play with the material,the smaple library one time without knowing which samples were where. I did not know beforehand what samples appear in e.g. the `00-00` group.
+
+
 ### study four
 [![study four](https://img.youtube.com/vi/BL5GbwYgkTo/0.jpg)](https://www.youtube.com/watch?v=BL5GbwYgkTo "study four")
  
