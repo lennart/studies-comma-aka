@@ -60,7 +60,6 @@ removing loop marks
 >
 > discovering loop  
 in a stream  
-Category
 
 ### study three
 [![study three](https://img.youtube.com/vi/ba2pHWpXeXg/0.jpg)](https://www.youtube.com/watch?v=ba2pHWpXeXg "study three")
