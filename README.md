@@ -19,9 +19,49 @@ and started with the first study, trying to beat match the pure `(11,24.14)` rhy
 ### study one
 [![study one](https://img.youtube.com/vi/mYptyc4FmFE/0.jpg)](https://www.youtube.com/watch?v=mYptyc4FmFE "study one")
 
+> how to find a loop  
+if you can neither find a beginning  
+or an end
+>
+> how to find the right tempo  
+if you do not know  
+what the _beat_ is
+>
+> how to isolate a rhythm  
+if it is interwoven  
+and falls apart when found
+>
+> how to know what is artifical  
+and what is original  
+if all you do is stare onto
+>
+> a computer screen  
+with text
+
+after the first study I lost interest in trying to find other technical parameters that I could investigate in. the material appeared much more dense and much more complex than expected which led me to alter the direction of my studies onto different perspectives, first technical followed by ethnographical. the subject of my second study livecodes the same sample as used in the first study. in other words, i observed myself while programmatically weeding through the fiedl recording with algorithms. occasionally i talk to myself, in written form.
+
 ### study two
 [![study two](https://img.youtube.com/vi/dsfUOTskMqk/0.jpg)](https://www.youtube.com/watch?v=dsfUOTskMqk "study two")
- 
+
+> there is no hurry
+>
+> once things pass  
+you will revolve
+>
+> revisiting, revising
+>
+> look at loop from a different angle:
+>
+> constructing loop  
+listen to loop
+>
+> changing loop  
+removing loop marks
+>
+> discovering loop  
+in a stream  
+Category
+
 ### study three
 [![study three](https://img.youtube.com/vi/ba2pHWpXeXg/0.jpg)](https://www.youtube.com/watch?v=ba2pHWpXeXg "study three")
  
