@@ -105,3 +105,11 @@ in contrast to the former four, this study does not use samples sound but rather
  
 ### study five
 [![study five](https://img.youtube.com/vi/KUJVbkp2gMQ/0.jpg)](https://www.youtube.com/watch?v=KUJVbkp2gMQ "study five")
+> constructing, reconstructing  
+resemblance, assemblance
+>
+> irreducible patterns;  
+non-refactorable;
+>
+> the core and  
+the interlocking regions
