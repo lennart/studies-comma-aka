@@ -84,11 +84,24 @@ After this one. i had to take a break of a least two weeks before being able to 
 
 one day I dtopped looking for a new idea to make another study,and instead used an old one. I algorithmically cut the field recording into onset detected samples and organized them by length into groups. each sample group was sorted by pitch, ascending.
 
-the study was to play with the material,the smaple library one time without knowing which samples were where. I did not know beforehand what samples appear in e.g. the `00-00` group.
+the study was to play with the material-the sample library-one time without knowing which samples were where i.e. I did not know beforehand what samples appear in the `00-00` (shorter than 100ms) group.
 
 
 ### study four
 [![study four](https://img.youtube.com/vi/BL5GbwYgkTo/0.jpg)](https://www.youtube.com/watch?v=BL5GbwYgkTo "study four")
+
+> with every repetition  
+the cuts in human voices  
+go deeper
+>
+> with less rests  
+how can we hear more?
+>
+> what does it mean: to capture?
+
+it turns out to be a kind of kitsch. af6er these four studies I am interested in seeing how much of the rhythmic structure of a common aka pygmy dance is necessary to perceive it as one of their dances. which led me to the last study: synthesis
+
+in contrast to the former four, this study does not use samples sound but rather sampled rhythms, that is: I used not only the bjorklung algorithm for this one, but also copied other rhythmic phrases from the mokombo[sic] dance and a-plied them to synthesised drums.
  
 ### study five
 [![study five](https://img.youtube.com/vi/KUJVbkp2gMQ/0.jpg)](https://www.youtube.com/watch?v=KUJVbkp2gMQ "study five")
