@@ -26,7 +26,7 @@ and started with the first study, trying to beat match the pure `(11,24.14)` rhy
 [![study three](https://img.youtube.com/vi/ba2pHWpXeXg/0.jpg)](https://www.youtube.com/watch?v=ba2pHWpXeXg "study three")
  
 ### study four
-[![study four](https://img.youtube.com/vi/heBL5GbwYgkTo/0.jpg)](https://www.youtube.com/watch?v=BL5GbwYgkTo "study four")
+[![study four](https://img.youtube.com/vi/BL5GbwYgkTo/0.jpg)](https://www.youtube.com/watch?v=BL5GbwYgkTo "study four")
  
 ### study five
 [![study five](https://img.youtube.com/vi/KUJVbkp2gMQ/0.jpg)](https://www.youtube.com/watch?v=KUJVbkp2gMQ "study five")
