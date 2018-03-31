@@ -138,6 +138,9 @@ non-refactorable;
 > the core and  
 the interlocking regions
 
+## feedback
+
+Comments and critique on the method and studies welcome, see [all the studies as a playlist on youtube](https://www.youtube.com/watch?v=mYptyc4FmFE&list=PLCDFWq63Q85DDV6LhuuI9DiTERLCwFb5u)!
 
 [tidal]: https://tidalcycles.org "A language for livecoding patterns"
 [bjorklund]: https://tidalcycles.org/patterns.html#bjorklund "Euclidian Sequences"
