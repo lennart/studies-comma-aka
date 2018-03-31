@@ -2,7 +2,7 @@
 
 Within the livecoding pattern language [tidalcycles][tidal], there exists an implementation of the so called [bjorklund algorithm][bjorklund] (closely related to the euclidian algorithm) creating patterns of a given amount of hits distributed across a certain metric.
 
-While this algorithm allows to create complex rhythmic patterns by entering a tuple of whole numbers in a text editor, some of the creatable rhythms can be retraced back to early persian, caribbean or­as in these studies used­african origins.
+While this allows to create complex rhythmic patterns by entering a tuple of whole numbers in a text editor, some of the creatable rhythms can be retraced back to early persian, caribbean or—as used in these studies—african origins.
 
 In short: two numbers in a text editor represent hundreds of years of cultural heritage.
 
@@ -12,7 +12,13 @@ My interest in the aka pygmy music is somehow comprised of the prominent use of 
 
 Initially I asked myself: "_When_ does cultural identity appear or vanish when livecoding?" or "_How_ does the reduction or addition of elements of the dances create or break the link between a computerized, mechanic, algorithmic version of the rhythm and the acoustically performed one?"
 
-I thought about different parameters that could be altered in each study­like speed­in order to document their effects on the material  
+## method
+
+The following five studies were produced by livecoding in tidalcycles for approximately one hour each. After each recording I wrote a poem for it and extracted a representative portion of five minutes from the video.
+
+These studies however document how my perception changes during their conception and may or may not answer the above or any other questions at all.
+
+I thought about different parameters that could be altered in each study—like speed—in order to document their effects on the material  
 and started with the first study, trying to beat match the pure `(11,24,14)` rhythm with a field recording.
  
 ### study one
@@ -99,7 +105,7 @@ One day I stopped looking for a new idea to make another study and instead used 
 I [algorithmically cut](scape.rb) the field recording into onset detected samples  
 and organized them by length into groups. Each sample group was sorted by pitch, ascending.
 
-The idea is to play with the material­the sample library­one time and without knowing which samples were where  
+The idea is to play with the material—the sample library—one time and without knowing which samples were where  
 i.e. I did not know beforehand what samples appear in the `00-00` (shorter than 100ms) group.
 
 ### study four
