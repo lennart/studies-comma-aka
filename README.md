@@ -6,7 +6,7 @@ While this algorithm allows to create complex rhythmic patterns by entering a tu
 
 In short: two numbers in a text editor represent hundreds of years of cultural heritage.
 
-In order to understand the relation between this heritage and plain numbers and to overcome my hesitance to work with this algorithm in performances, I started by picking one of the number pairs, a rhythm necklace used in dances of the aka pygmies in central africa and planned on dissecting this rhythm and field recordings of dances possibly containing this rhythm.
+In order to understand the relation between this heritage and plain numbers and to overcome my hesitance to work with this algorithm in performances, I started by picking one of the number pairs, a rhythm necklace used in dances of the aka pygmies in central africa and planned on dissecting this rhythm and field recordings ([Musique Pour La Danse Lombe: Bobangi][bobangi] of dances possibly containing this rhythm.
 
 My interest in the aka pygmy music is somehow comprised of the prominent use of repetition, polyrhythm and the use of voices without too much focus on textual content within the singing.
 
@@ -135,4 +135,5 @@ the interlocking regions
 
 [tidal]: https://tidalcycles.org "A language for livecoding patterns"
 [bjorklund]: https://tidalcycles.org/patterns.html#bjorklund "Euclidian Sequences"
+[bobangi]: https://www.discogs.com/Aka-Centrafrique-Central-Africa-Anthologie-De-La-Musique-Des-Pygm%C3%A9es-Aka-Musical-Anthology-Of-The-A/release/2244894 "Centrafrique : Central Africa - Anthologie De La Musique Des Pygmées Aka - Musical Anthology Of The Aka Pygmies, Ocora, 2002"
 [arom]: https://www.cambridge.org/core/books/african-polyphony-and-polyrhythm/831AF8A34F15E39DC8E8F42104B46EB3 "African Polyphony and Polyrhythm, Simha Arom, Centre National de la Recherche Scientifique (CNRS), Paris, 1991, p. 305"
